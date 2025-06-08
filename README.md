@@ -36,5 +36,5 @@ This SQL project simulates a Healthcare Management System using **MySQL Workbenc
 
 ## 📚 Author
 
-Created by [Jatin Yadav]  
-📧 [healthwaves60.jatinyadav@gmail.com] | 
+Created by: Jatin Yadav  
+📧 healthwaves60.jatinyadav@gmail.com  
